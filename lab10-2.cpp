@@ -43,7 +43,7 @@ else
 //end if
 
 return 0;
-    //end of main function
+}  //end of main function
 
     //*****fucntion definitions*****
     void displayOptions()
@@ -62,6 +62,3 @@ void getRegular(int windows, double price, double &total)
 {
         total = (windows / 2 + windows % 2) * price;
 }  //end getBoGo function
-    
-return 0;
-} //end of main function
