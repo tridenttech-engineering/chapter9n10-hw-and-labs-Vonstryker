@@ -1,5 +1,5 @@
 //Lab 9-2.cpp - displays two monthly car payments
-//Created/revised by Jose Marti on 08/04/2024
+//Created/revised by <Jose Marti> on <08/04/2024>
 
 #include <iostream>
 #include <cmath>
